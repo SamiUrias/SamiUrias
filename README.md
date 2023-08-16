@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SamiUrias
-- 👀 I’m interested in create interesting projects and Open Source
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in creating interesting projects and Open Source
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me samuel{{at}}samuelurias.com
 
